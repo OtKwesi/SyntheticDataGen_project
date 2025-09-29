@@ -1,0 +1,20 @@
+- name: id
+  type: id
+  prefix: "U"
+
+- name: amount
+  type: numeric
+  range: [10, 5000]
+
+- name: date
+  type: datetime
+  start_date: "2023-01-01"
+  end_date: "2025-01-01"
+
+- name: category
+  type: categorical
+  categories: ["A", "B", "C"]
+
+- name: notes
+  type: text
+  faker: sentence

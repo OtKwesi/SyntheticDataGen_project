@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+.env
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Pytest / Cache
+.pytest_cache/
+.cache/
+
+# CSV / Data outputs
+*.csv
+
+# IDE / Editor
+.vscode/
+.idea/
