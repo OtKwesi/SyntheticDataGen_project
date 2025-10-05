@@ -13,7 +13,7 @@ The goal is to provide an **open-source alternative to Kaggle datasets** by lett
 - MIT Licensed — free to use, modify, and share.
 - CI/CD ready with GitHub Actions and unit tests.
 
-## 📦 Installation
+## 📦 Installation - Quickstart (30 seconds)
 
 ```bash
 # Step 1: Clone the repository
