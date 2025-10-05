@@ -1,3 +1,7 @@
+![CI](https://github.com/OtKwesi/SyntheticDataGen_project/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/OtKwesi/SyntheticDataGen_project)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+
 # Synthetic_Data_Generation
 
 SyntheticGen is a plug-and-play **synthetic data generator** for machine learning engineers, data scientists, and analysts. It allows you to **define your dataset schema in YAML** and generate realistic synthetic datasets in CSV or Pandas DataFrame format.
