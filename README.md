@@ -1,4 +1,4 @@
-# SyntheticGen
+# Synthetic_Data_Generation
 
 SyntheticGen is a plug-and-play **synthetic data generator** for machine learning engineers, data scientists, and analysts. It allows you to **define your dataset schema in YAML** and generate realistic synthetic datasets in CSV or Pandas DataFrame format.
 
